@@ -2,6 +2,9 @@
 
 By [Alberto Fustinoni](http://aftnet.net)
 
+Prototype of a networked simulation system, dead reckoning techniques are used to compensate for communication latency between instances and keep them as closely synchronized as possible.
+The application is a hybrid client/server and uses Winsock to interface to the network.
+
 Use file menu to host a simulation or to connect a server running one.
 On the server, keys WASD can be used to move the user controlled marble around; 
 clients run a parallel simulation kept in sync to the server's but allow no user interaction.
