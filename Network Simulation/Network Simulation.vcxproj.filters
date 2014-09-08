@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="Media">
+      <UniqueIdentifier>{9e23ebd1-50b6-445f-b440-304471c3507e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\AppCore.h" />
+    <ClInclude Include="Source\GameData.h" />
+    <ClInclude Include="Source\NetDefs.h" />
+    <ClInclude Include="Source\Sprite.h" />
+    <ClInclude Include="Source\Timer.h" />
+    <ClInclude Include="Source\Resources.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\AppCore.cpp" />
+    <ClCompile Include="Source\GameData.cpp" />
+    <ClCompile Include="Source\Main.cpp" />
+    <ClCompile Include="Source\NetDefs.cpp" />
+    <ClCompile Include="Source\Sprite.cpp" />
+    <ClCompile Include="Source\Timer.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Network Simulation.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Media\Bgmask.bmp">
+      <Filter>Media</Filter>
+    </Image>
+    <Image Include="Media\Icon.ico">
+      <Filter>Media</Filter>
+    </Image>
+    <Image Include="Media\Lvbg.bmp">
+      <Filter>Media</Filter>
+    </Image>
+    <Image Include="Media\Sprite1.bmp">
+      <Filter>Media</Filter>
+    </Image>
+    <Image Include="Media\Sprite1mask.bmp">
+      <Filter>Media</Filter>
+    </Image>
+    <Image Include="Media\Sprite2.bmp">
+      <Filter>Media</Filter>
+    </Image>
+    <Image Include="Media\Sprite2mask.bmp">
+      <Filter>Media</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

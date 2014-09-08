@@ -1,0 +1,21 @@
+None of the images used in this program have been created by me. 
+Here are their sources:
+
+Level background image:
+"Theta Space" by Geier Sven
+http://www.sgeier.net/fractals/fractals/06/Theta%20Space.jpg 
+
+Player controlled bodies image:
+"Lightning Rage" by Mmorozbot
+(High res redrawing of pin 145 from Square Enix’s The World Ends With You)
+http://images1.wikia.nocookie.net/twewy/images//0/02/Pin_145.png
+
+AI controlled bodies image:
+"Self Found, Others Lost" by Mmorozbot
+(High res redrawing of pin 154 from Square Enix’s The World Ends With You)
+http://images4.wikia.nocookie.net/twewy/images//3/3e/Pin_154.png
+
+
+
+Alberto Fustinoni
+albertofustinoni@gmail.com
