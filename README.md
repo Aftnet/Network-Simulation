@@ -21,7 +21,7 @@ None of the images used in this program have been created by me. Here are their 
 ["Theta Space" by Geier Sven](http://www.sgeier.net/fractals/fractals/06/Theta%20Space.jpg)
 
 - Player controlled bodies image:
-["Lightning Rage" by Mmorozbot](http://images1.wikia.nocookie.net/twewy/images//0/02/Pin_145.png)
+["Lightning Rage" by Mmorozbot](http://twewy.wikia.com/wiki/Pin_145)
 
 - AI controlled bodies image:
-["Self Found, Others Lost" by Mmorozbot](http://images4.wikia.nocookie.net/twewy/images//3/3e/Pin_154.png)
+["Self Found, Others Lost" by Mmorozbot](http://twewy.wikia.com/wiki/Pin_154)
